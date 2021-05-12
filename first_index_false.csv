@@ -1,4 +1,4 @@
-UID,location,name
-19MCA1027,asansol,subhransu
-19MCA17,kolkata,pallai
-19MCA1026,bojboj,sidharth
+name,UID,location
+subhransu,19MCA1027,asansol
+pallai,19MCA17,kolkata
+sidharth,19MCA1026,bojboj
